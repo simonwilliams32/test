@@ -1,0 +1,2 @@
+word = 'Simon'
+print(word)
